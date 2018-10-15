@@ -1,4 +1,4 @@
-Nombre: Sandra Josefina Diaz Aguilar 
-cuenta: 0714-1994-00148
-Gibhub: josefinaaguilar94
-correo: sandryu_jozee@hotmail.com
+Nombre:   Sandra Josefina Diaz Aguilar 
+N°cuenta: 0714-1994-00148
+Gibhub:   josefinaaguilar94
+correo:   sandryu_jozee@hotmail.com
